@@ -1,43 +1,41 @@
 # ETHIK — Ethical Token for Impact Community
-## Whitepaper conceptual e funcional
+## Whitepaper conceptual, funcional e técnico
 
-**Versão:** 1.0  
+**Versão:** 2.0  
 **Data:** outubro de 2026  
 **Entidade promotora:** Alma Fénix — Associação  
-**Estado:** documento conceptual sujeito a validação jurídica, fiscal, contabilística, técnica e regulatória antes da emissão, distribuição ou promoção do token.
+**Estado:** documento conceptual e informativo sujeito a validação jurídica, fiscal, contabilística, técnica e regulatória.
 
 ---
 
 ## 1. Sumário executivo
 
-**ETHIK — Ethical Token for Impact Community** é concebido como um ativo digital de utilidade e reconhecimento associado ao ecossistema de impacto social da Alma Fénix.
+**ETHIK — Ethical Token for Impact Community** é concebido como um token digital de utilidade e reconhecimento associado ao ecossistema de impacto social da Alma Fénix.
 
-O objetivo é apoiar a participação em projetos sociais, culturais, educativos e comunitários, reconhecer contributos e, quando existam condições concretas e previamente divulgadas, permitir o acesso a benefícios ou funcionalidades disponibilizados pela Alma Fénix ou por parceiros participantes.
+A ETHIK não é concebida como moeda oficial, moeda eletrónica ou stablecoin. Não representa capital da associação nem confere direito a lucros, juros, excedentes, património ou retorno financeiro. Não existe promessa de valorização, liquidez, recompra, resgate ou conversão em euros.
 
-A ETHIK não é concebida neste documento como moeda oficial, moeda eletrónica ou stablecoin. Não representa capital da associação nem confere direito a lucros, juros, excedentes, património ou retorno financeiro. Não se promete que tenha valor de mercado, liquidez, conversão em euros ou valorização futura.
-
-Este documento define um modelo conceptual e não significa que todas as funcionalidades descritas já estejam implementadas. A oferta, o contrato, as carteiras, a emissão e a distribuição só devem ser publicados como factos depois de confirmação técnica.
+Este documento distingue os dados técnicos recuperados do código-fonte original dos elementos que ainda carecem de verificação direta no contrato publicado na blockchain.
 
 ## 2. Visão e missão
 
-A Alma Fénix procura promover inclusão, autonomia, participação cívica, inovação social, criação cultural e colaboração comunitária. A ETHIK pretende acrescentar uma camada digital a essa missão, permitindo associar participação a reconhecimento e a utilidades comunitárias concretas.
+A Alma Fénix procura promover inclusão, autonomia, participação cívica, inovação social, criação cultural e colaboração comunitária. A ETHIK acrescenta uma camada digital de participação, reconhecimento e utilidade comunitária.
 
-O princípio central é que **a tecnologia deve servir o impacto social, e não transformar a ação social num mecanismo especulativo**.
+A tecnologia deve servir o impacto social, e não transformar a ação social num mecanismo especulativo.
 
-A ETHIK não substitui os mecanismos de financiamento da associação, nem converte donativos ou subsídios em investimentos financeiros.
+## 3. Utilidade
 
-## 3. Conceito e finalidade
+Quando efetivamente disponibilizadas e com condições públicas, unidades ETHIK poderão apoiar:
 
-A ETHIK é concebida como um token de utilidade e reconhecimento dentro de um ecossistema de impacto social. A classificação jurídica final depende das características concretas do token, dos direitos associados, da sua emissão e distribuição, da transferibilidade e da forma como seja promovido ou utilizado.
+- reconhecimento de participação;
+- workshops e formação;
+- acesso a conteúdos e recursos digitais;
+- atividades e eventos;
+- certificação digital de participação;
+- iniciativas de Photovoice e investigação participativa;
+- mentoria e empreendedorismo social;
+- outras utilidades compatíveis com a missão da associação.
 
-A ETHIK poderá ser desenvolvida para apoiar quatro áreas:
-
-1. **Reconhecimento de participação:** identificar contribuições para atividades, programas e iniciativas.
-2. **Utilidade comunitária:** facilitar acesso a conteúdos, formações, eventos, experiências ou benefícios concretamente disponibilizados.
-3. **Participação em projetos de impacto:** criar mecanismos de participação e reconhecimento associados a metas sociais.
-4. **Transparência:** utilizar tecnologia blockchain para registar certas operações e permitir a sua verificação.
-
-Estas funções são objetivos de conceção, não uma garantia de que os serviços estejam já disponíveis.
+Estas possibilidades não constituem garantia de que todos os serviços estejam disponíveis.
 
 ## 4. O que a ETHIK não representa
 
@@ -45,176 +43,112 @@ A ETHIK não confere, por si só:
 
 - direitos sobre o património da Alma Fénix;
 - participação no capital ou nos lucros da associação;
-- direito a dividendos, juros ou distribuição de excedentes;
-- remuneração financeira pelo simples facto de deter tokens;
+- dividendos, juros ou distribuição de excedentes;
+- remuneração financeira pela simples detenção;
 - direito de resgate ou conversão em euros;
-- garantia de preço, estabilidade de valor, recompra ou liquidez;
-- direito a receber uma parte dos donativos, subsídios ou receitas da associação;
-- garantia de acesso permanente a produtos ou serviços de terceiros.
+- garantia de preço, liquidez ou valorização;
+- participação nos donativos, subsídios ou receitas da associação.
 
-A ETHIK não deve ser descrita como investimento, stablecoin, moeda oficial ou ativo com valor garantido.
+A posse de tokens não substitui a qualidade de associado nem os direitos estatutários.
 
-## 5. Utilidade planeada
+## 5. Reconhecimento e atribuição
 
-Quando sejam efetivamente disponibilizadas, e sempre de acordo com condições públicas e transparentes, unidades ETHIK poderão ser utilizadas para:
+A ETHIK poderá integrar modelos de reconhecimento de participação, voluntariado, contributos artísticos ou culturais, ações educativas, investigação participativa e atividades comunitárias.
 
-- participação em workshops e ações de formação;
-- acesso a conteúdos educativos e recursos digitais;
-- inscrição em atividades ou eventos específicos;
-- acesso a experiências ou benefícios disponibilizados por parceiros;
-- reconhecimento de participação em projetos sociais, culturais ou educativos;
-- participação em desafios comunitários de impacto;
-- certificação digital de participação;
-- reconhecimento de contributos para iniciativas de investigação participativa e criação cultural, incluindo projetos de Photovoice;
-- acesso a programas de mentoria, capacitação ou empreendedorismo social;
-- outras utilidades compatíveis com a missão da associação e legalmente admissíveis.
+Os critérios devem ser objetivos, proporcionais, auditáveis e compatíveis com inclusão e proteção de dados. A atribuição de ETHIK não substitui salários, bolsas, apoios sociais ou remunerações legalmente devidas.
 
-Cada utilidade deverá identificar o responsável pela sua disponibilização, os requisitos de acesso, prazos, limites, custos eventualmente aplicáveis e condições para suspensão ou alteração. O token não deve ser apresentado como aceite universal nem como garantia de fornecimento por parceiros.
+## 6. Donativos e financiamento
 
-## 6. Reconhecimento e incentivos
+Donativos, quotas, subsídios, mecenato, patrocínios e financiamento de projetos são distintos da detenção de tokens. Um donativo não constitui investimento na associação nem confere direitos sobre lucros ou património.
 
-A ETHIK poderá integrar um modelo de reconhecimento de contributos, com critérios objetivos e divulgados. Exemplos de contributos elegíveis, caso sejam adotados pela associação:
+Qualquer campanha que associe pagamentos ou donativos a tokens deverá ser previamente avaliada nos planos jurídico, fiscal, contabilístico, regulatório e de proteção de dados.
 
-- participação regular em atividades comunitárias;
-- voluntariado;
-- contributos artísticos ou culturais;
-- apoio à organização de iniciativas;
-- participação em ações de capacitação;
-- contributos para projetos educativos ou de investigação participativa;
-- participação em atividades com objetivos de impacto previamente definidos.
+## 7. Blockchain e contrato
 
-Os critérios deverão ser proporcionais, auditáveis e atentos à acessibilidade, à inclusão e à privacidade. A atribuição deve ter em conta o contexto de cada projeto e não deve incentivar a recolha excessiva de dados pessoais nem explorar pessoas em situação de vulnerabilidade.
+O ETHIK está documentado como **ERC-20 na Celo Mainnet**, Chain ID **42220**.
 
-A atribuição de ETHIK não é remuneração por trabalho. Quando exista uma relação laboral ou prestação de serviços remunerada, aplicam-se os respetivos instrumentos contratuais, laborais, fiscais e contabilísticos. A associação não deverá usar tokens para substituir salários, bolsas ou apoios sociais legalmente devidos.
+**Contrato:** `0x782061Cb8D870161fA0DD8D461fafDD67a742ECe`  
+**Decimais:** 18
 
-## 7. Projetos sociais e financiamento
+Foi recuperado o ficheiro Solidity original `contracts/ETHIK.sol`, baseado em OpenZeppelin `ERC20` e `Ownable`.
 
-A ETHIK poderá ajudar a identificar participação e utilidades associadas a projetos de impacto, mas não é, por si só, um instrumento de financiamento de projetos.
+A implementação recuperada contém:
 
-O financiamento da Alma Fénix e das iniciativas apoiadas poderá ocorrer, conforme o caso, através de quotas, donativos, mecenato, patrocínios, subsídios, financiamento público ou europeu, parcerias, contratos ou outras fontes legalmente admissíveis.
+```solidity
+constructor() ERC20("ETHIK", "ETHIK") Ownable(msg.sender) {
+    _mint(msg.sender, 10000000 * 10 ** decimals());
+}
 
-A aplicação dos recursos deve respeitar os fins estatutários, as condições dos financiadores e as obrigações legais, fiscais e contabilísticas aplicáveis. Um token não cria, por si só, uma conta segregada, um fundo de impacto ou uma garantia de afetação financeira.
+function mint(address to, uint256 amount) public onlyOwner {
+    _mint(to, amount);
+}
+```
 
-Sempre que seja útil, a blockchain poderá contribuir para registar marcos ou operações de projeto, mantendo os dados pessoais fora da cadeia de blocos. A rastreabilidade técnica não substitui a contabilidade, a auditoria nem a prestação formal de contas.
+Isto significa que o contrato cria inicialmente **10.000.000 ETHIK** para o `msg.sender` do deployment e disponibiliza uma função de emissão adicional protegida por `onlyOwner`.
 
-## 8. Empreendedorismo social e parceiros
+## 8. Supply e tokenomics
 
-A ETHIK poderá apoiar programas de capacitação, mentoria, redes de colaboração, eventos e acesso a recursos para empreendedores sociais. Poderá também servir de mecanismo de participação ou reconhecimento dentro desses programas.
+O supply inicial definido no código é **10.000.000 ETHIK**.
 
-Quando a Alma Fénix pretenda conceder apoio financeiro, bolsas, prémios monetários ou financiamento a empreendedores, deverá utilizar instrumentos legais e contabilísticos adequados, com critérios de elegibilidade, regras de decisão, prevenção de conflitos de interesses e prestação de contas.
+O código recuperado **não estabelece um maximum supply**. Assim, os 10 milhões não devem ser descritos como supply máximo. O owner pode, tecnicamente, emitir unidades adicionais através de `mint()`.
 
-A ETHIK não promete retorno sobre projetos nem atribui aos seus detentores participação nos rendimentos de empresas, parceiros ou beneficiários.
+O código recuperado não contém funções próprias de `burn()` ou `pause()`, nem mecanismo de proxy/upgradeability no ficheiro apresentado.
 
-Os parceiros só devem ser apresentados como aceitando ou disponibilizando utilidades ETHIK depois de existir acordo válido e condições publicadas.
+Não existe ainda uma distribuição percentual oficial documentada. As categorias e percentagens só devem ser publicadas quando houver correspondência verificável com carteiras e regras efetivas.
 
-## 9. Donativos, campanhas e contrapartidas
+## 9. Controlo do contrato
 
-Donativos e financiamento são distintos da detenção ou utilização de tokens. Um donativo à Alma Fénix não constitui investimento na associação e não confere direitos sobre lucros ou património.
+`Ownable(msg.sender)` estabelece o `msg.sender` do deployment como owner inicial.
 
-Antes de realizar uma campanha que associe pagamentos, donativos, recolha de dados ou outras contrapartidas à atribuição de ETHIK, a Alma Fénix deverá avaliar o enquadramento jurídico, fiscal, contabilístico, de proteção de dados e regulatório da operação. A designação “gratuito” ou “social” não determina, por si só, o tratamento legal.
+Isto não é, por si só, prova do owner atual. Antes de qualquer nova emissão deve ser confirmada on-chain a função `owner()` e o histórico de ownership.
 
-A comunicação pública deverá explicar com clareza se o token é gratuito, quais as condições de elegibilidade, que utilidade efetiva tem, que limitações se aplicam e se existe algum custo. Não se deverá sugerir que a aquisição de ETHIK é um investimento.
+A posse de ETHIK numa carteira também não prova, por si só, o controlo administrativo do contrato.
 
-## 10. NFTs e criação cultural
+## 10. Estado técnico e verificação
 
-A Alma Fénix poderá explorar NFTs associados a projetos artísticos, culturais, educativos ou comunitários, incluindo trabalhos de fotografia, Photovoice, certificados digitais e objetos de coleção.
+Dados observados no explorador em outubro de 2026:
 
-Qualquer emissão ou comercialização deverá respeitar direitos de autor, direitos de imagem, proteção de dados, consentimentos e direitos de participantes ou criadores. A autorização para registo em blockchain ou emissão de NFT deve ser clara e separada de consentimentos genéricos de participação sempre que legalmente necessário.
+| Parâmetro | Dado |
+|---|---|
+| Nome | ETHIK |
+| Símbolo | ETHIK |
+| Padrão | ERC-20 |
+| Rede | Celo Mainnet |
+| Chain ID | 42220 |
+| Contrato | `0x782061Cb8D870161fA0DD8D461fafDD67a742ECe` |
+| Decimais | 18 |
+| Supply inicial no código recuperado | **10.000.000 ETHIK** |
+| Max Total Supply apresentado pelo explorador | 10.000.000 ETHIK |
+| Holders apresentados | 2 |
+| Transferências apresentadas | 5 |
 
-Quando exista receita de venda ou licenciamento, a sua contabilização e utilização deverão ser determinadas de acordo com os contratos, os direitos dos autores, os fins estatutários e a legislação aplicável. O NFT não deve ser apresentado como prova de propriedade dos direitos de autor salvo se isso estiver expressamente definido e for juridicamente válido.
+O código recuperado ainda não foi bytecode-verificado contra o contrato publicado no CeloScan. Permanecem como validações finais: comparar código e bytecode, confirmar `owner()`, confirmar `totalSupply()` e verificar o histórico de ownership.
 
-## 11. Blockchain e implementação técnica
+## 11. Riscos
 
-A documentação do projeto tem identificado a **Celo** como rede prevista para a ETHIK. Essa referência deverá ser confirmada com os dados do contrato e da rede efetivamente utilizados antes de ser publicada como informação técnica definitiva.
+A função `mint()` representa um risco de diluição se forem emitidos novos tokens. Por isso, qualquer emissão adicional deve ser precedida de decisão documentada, avaliação jurídica/regulatória, análise de impacto na tokenomics e atualização da documentação pública.
 
-Antes de declarar o token operacional, deverão ser confirmados e documentados:
+Também existem riscos associados à perda de chaves, phishing, transferências irreversíveis, indisponibilidade de serviços e ausência de mercado ou liquidez.
 
-- rede e identificador da rede;
-- endereço do contrato;
-- padrão técnico do token;
-- oferta total, regras de emissão e possibilidade de emissão adicional;
-- funções administrativas e permissões;
-- carteira(s) de controlo e regras de custódia;
-- transações de distribuição verificáveis;
-- auditoria ou revisão de segurança, caso exista.
+## 12. Privacidade, conformidade e enquadramento jurídico
 
-Este whitepaper não inventa nem define uma oferta total ou distribuição percentual. Esses elementos devem ser especificados apenas após uma decisão documentada e verificação do contrato. O endereço de contrato não deve ser publicado como definitivo enquanto não tiver sido confirmado.
+Não devem ser publicados numa blockchain pública nomes, contactos, moradas, documentos de identificação, dados de saúde, situação social ou listas de beneficiários.
 
-## 12. Tokenomics: parâmetros ainda por definir
+A classificação jurídica de um criptoativo depende das suas características reais, direitos associados, emissão, distribuição, transferibilidade e promoção. A intenção social e o nome “token de utilidade” não determinam, por si só, o enquadramento jurídico.
 
-A tokenomics final deverá ser aprovada antes de qualquer distribuição pública. Os seguintes elementos permanecem **por definir ou por confirmar**:
-
-| Parâmetro | Estado | O que deve ser decidido/verificado |
-|---|---|---|
-| Oferta total | Por definir | Quantidade total e se é fixa ou variável |
-| Emissão adicional | Por definir | Se existe função de emissão e quem a controla |
-| Distribuição inicial | Por definir | Categorias, quantidades, condições e destinatários |
-| Recompensas | Por definir | Critérios objetivos, limites e processo de validação |
-| Transferibilidade | Por confirmar | Se as transferências são permitidas e em que condições |
-| Queima de tokens | Por definir | Se existe e qual a finalidade |
-| Utilidades | Em desenvolvimento | Benefícios concretos e respetivos fornecedores |
-| Carteiras administrativas | Por confirmar | Endereços públicos e responsabilidades de controlo |
-| Rede e contrato | Por confirmar | Celo e endereço efetivo do contrato |
-| Mercado secundário | Não previsto neste modelo | Qualquer alteração requer análise jurídica e regulatória prévia |
-
-Os campos em aberto não constituem uma promessa de implementação. A informação deverá ser atualizada à medida que exista decisão e evidência.
-
-## 13. Transparência, privacidade e proteção dos participantes
-
-A transparência deverá ser proporcional e compatível com a proteção de dados. A blockchain pode tornar transações publicamente verificáveis, mas também tornar certos dados persistentes e difíceis de eliminar.
-
-Não deverão ser registados numa blockchain pública nomes, contactos, moradas, documentos de identificação, dados de saúde, situação social ou listas de beneficiários. Sempre que necessário, a associação deverá manter registos pessoais em sistemas apropriados e usar referências técnicas minimizadas na blockchain.
-
-A participação deve ser voluntária e informada. Deve explicar-se que a perda de chaves privadas pode impedir o acesso a tokens e que certas transferências podem ser irreversíveis. A associação deverá disponibilizar informação acessível sobre fraude, phishing, segurança de carteiras e limitações do sistema.
-
-## 14. Riscos e limitações
-
-A ETHIK poderá não ter mercado, liquidez, preço ou possibilidade de conversão em euros. Podem ocorrer falhas técnicas, perda de chaves, transferências irreversíveis, alterações de regras ou indisponibilidade de serviços. Parceiros podem deixar de disponibilizar benefícios nos termos permitidos pelas condições acordadas.
-
-A utilização de blockchain não garante a veracidade de métricas de impacto, a eficácia de um projeto, a proteção contra fraude ou a conformidade legal. Os participantes não devem assumir que a ETHIK tem valor económico ou que a sua posse gera rendimento.
-
-## 15. Enquadramento jurídico e regulatório
-
-A classificação jurídica de um criptoativo depende das suas características reais, dos direitos associados, da emissão, distribuição, transferibilidade, promoção e utilização. A intenção social e o nome “token de utilidade” não são suficientes, por si só, para determinar a classificação.
-
-O [Regulamento (UE) 2023/1114 relativo aos mercados de criptoativos (MiCA)](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) estabelece regras para certas categorias e operações com criptoativos, incluindo requisitos que podem ser aplicáveis a ofertas públicas, documentação informativa e comunicações de marketing. As exclusões e exceções dependem das circunstâncias concretas.
-
-Antes de emitir, distribuir, promover, vender, admitir à negociação ou criar mecanismos de troca para ETHIK, a Alma Fénix deverá obter análise jurídica e regulatória específica, incluindo quanto à eventual aplicação do MiCA e de outras normas portuguesas e europeias. Deverão igualmente ser analisadas as implicações fiscais, contabilísticas, de proteção de dados e de proteção dos consumidores.
+O [Regulamento (UE) 2023/1114 relativo aos mercados de criptoativos (MiCA)](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) poderá ser relevante consoante o desenho e utilização concretos. Antes de emitir, distribuir, promover, vender, admitir à negociação ou criar mecanismos de troca para ETHIK, deve ser obtida análise jurídica e regulatória específica.
 
 Este documento não constitui parecer jurídico, autorização regulatória, prospeto, convite à compra ou aconselhamento financeiro.
 
-## 16. Roadmap indicativo
-
-| Etapa | Estado | Resultado esperado |
-|---|---|---|
-| Definição do conceito | Em revisão | Clarificar a finalidade social e as limitações económicas |
-| Verificação técnica | Por confirmar | Validar rede, contrato, emissão e permissões |
-| Tokenomics | Por definir | Aprovar oferta, distribuição, transferibilidade e critérios |
-| Utilidades concretas | Em desenvolvimento | Identificar benefícios reais e os parceiros responsáveis |
-| Revisão jurídica e fiscal | Necessária antes de lançamento | Avaliar a estrutura e operações propostas |
-| Implementação limitada | Futura, sujeita a validação | Testar funcionalidades com regras claras e sem promessas financeiras |
-| Expansão do ecossistema | Futura | Integrar parceiros apenas com acordos válidos e avaliação regulatória |
-
-As etapas não são garantidas e só devem ser marcadas como concluídas quando existirem evidências verificáveis.
-
-## 17. Princípios orientadores
-
-1. **Impacto social:** a tecnologia serve objetivos de inclusão e participação.
-2. **Não distribuição de lucros:** ETHIK não confere direitos a lucros ou excedentes da associação.
-3. **Sem promessa financeira:** não há promessa de valorização, liquidez, resgate ou rendimento.
-4. **Utilidade verificável:** só se anunciam benefícios efetivamente disponíveis e com condições públicas.
-5. **Transparência:** oferta, distribuição e regras devem ser documentadas com rigor.
-6. **Proteção de participantes:** especial atenção à acessibilidade, voluntariedade e prevenção de exploração de pessoas vulneráveis.
-7. **Privacidade:** dados pessoais minimizados e protegidos.
-8. **Conformidade:** emissão e promoção dependem de análise jurídica, fiscal, contabilística e regulatória.
-9. **Separação financeira:** donativos, financiamento de projetos e tokens são mecanismos distintos.
-
-## 18. Declaração final
-
-A ETHIK pretende aproximar participantes, organizações, voluntários, investigadores, empreendedores sociais e parceiros num ecossistema de utilidade e reconhecimento comunitário. O seu valor central está na participação e na contribuição para iniciativas com finalidade social.
-
-A ETHIK não deve ser apresentada como investimento, stablecoin ou mecanismo de distribuição de lucros. A sua emissão, distribuição e expansão dependem de definições técnicas verificáveis, utilidades concretas e validação jurídica, fiscal, contabilística e regulatória.
-
 ---
 
-**Aviso:** este whitepaper é conceptual e informativo. Não constitui parecer jurídico, autorização regulatória, oferta pública ou aconselhamento financeiro. A classificação do ativo e as obrigações aplicáveis devem ser analisadas com base no modelo efetivamente implementado.
+## Roadmap técnico resumido
+
+1. **Recuperação do código original — concluída.**
+2. **Validação do código contra o contrato on-chain — em curso.**
+3. **Confirmação do owner e totalSupply atuais — pendente.**
+4. **Verificação/publicação do código no explorador — pendente.**
+5. **Definição final da tokenomics e política de mint — pendente.**
+6. **Validação jurídica e regulatória antes de novas emissões ou promoção — necessária.**
+
+**Nota final:** os dados técnicos devem ser atualizados se a implementação on-chain for alterada.
