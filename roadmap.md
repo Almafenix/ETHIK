@@ -6,43 +6,50 @@
 ## 1. Conceito e finalidade — em revisão
 
 - Definir ETHIK como token de utilidade e reconhecimento de impacto social.
-- Remover linguagem que sugira stablecoin, investimento, rendimento ou valorização garantida.
-- Delimitar a relação entre token, donativos e financiamento de projetos.
+- Manter separação clara entre token, donativos, financiamento e remuneração.
+- Evitar linguagem que sugira stablecoin, investimento, rendimento ou valorização garantida.
 
-## 2. Verificação técnica — por confirmar
+## 2. Recuperação do contrato — concluída
 
-- Confirmar a rede e o identificador da rede.
-- Confirmar o endereço do contrato e o respetivo explorador.
-- Verificar padrão técnico, oferta, permissões, regras de emissão e transferibilidade.
-- Documentar carteiras administrativas e medidas de segurança.
-- Publicar apenas dados confirmados.
+- Recuperado o ficheiro Solidity original `contracts/ETHIK.sol`.
+- Confirmada a implementação ERC-20 baseada em OpenZeppelin.
+- Confirmado supply inicial de 10.000.000 ETHIK no construtor.
+- Confirmada função `mint()` protegida por `onlyOwner`.
+- Confirmado que o código recuperado não define um maximum supply.
 
-## 3. Tokenomics — por definir
+## 3. Verificação on-chain — em curso
 
-- Decidir se a oferta é fixa ou variável.
-- Definir critérios de atribuição, limites e processo de validação.
-- Decidir sobre transferibilidade e eventual queima.
-- Documentar a distribuição inicial e as carteiras correspondentes.
-- Não prometer mercado, valor ou resgate.
+- Confirmar correspondência entre o código recuperado e o bytecode publicado.
+- Confirmar `owner()` atual.
+- Confirmar `totalSupply()` atual.
+- Confirmar histórico de ownership e eventuais alterações administrativas.
+- Documentar carteiras e saldos relevantes.
 
-## 4. Utilidades — em conceção
+## 4. Tokenomics — atualização em curso
+
+- Tratar 10 milhões como **supply inicial**, não como maximum supply.
+- Definir uma política transparente para eventual emissão adicional.
+- Documentar critérios de atribuição e distribuição real.
+- Não prometer mercado, valor, liquidez ou resgate.
+
+## 5. Utilidades — em conceção
 
 - Identificar eventos, formação, conteúdos, certificados ou benefícios concretos.
 - Definir critérios acessíveis e não discriminatórios de participação.
 - Formalizar acordos com parceiros antes de anunciar utilidades externas.
 - Separar tokens de remunerações laborais, bolsas e apoios sociais legalmente devidos.
 
-## 5. Revisão jurídica e fiscal — necessária antes do lançamento
+## 6. Verificação do código no explorador — pendente
+
+- Avaliar publicação/verificação do código no CeloScan.
+- Garantir que a documentação pública corresponde ao contrato efetivamente publicado.
+
+## 7. Revisão jurídica e fiscal — necessária antes de novas emissões
 
 - Analisar o MiCA e outras normas relevantes com base no desenho efetivo do ativo.
 - Avaliar efeitos fiscais, contabilísticos, de proteção de dados e de proteção dos consumidores.
 - Rever campanhas que associem donativos, pagamentos ou dados pessoais a tokens.
-
-## 6. Implementação e expansão — futura
-
-- Testar funcionalidades em âmbito limitado após validação.
-- Documentar resultados, incidentes, alterações de regras e feedback dos participantes.
-- Integrar novos parceiros apenas quando existam acordos e análise adequada.
+- Avaliar especificamente os efeitos de uma função de mint controlada pelo owner.
 
 ## Critério de conclusão
 
